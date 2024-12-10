@@ -85,7 +85,7 @@ Relación con la tabla Libros.
 
 1. Clona este repositorio: 
 
-  - git clone https://github.com/FranGuzGon/tu-repositorio.git
+  - git clone https://github.com/FranGuzGon/ChallengerLiteralura
 
 2. Configura tu base de datos en PostgreSQL según la estructura anterior.
 
